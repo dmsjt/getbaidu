@@ -1,6 +1,7 @@
 #!/usr/bin/python
 #coding:utf-8
 #支持多线程
+#usage:python getbaidu.py
 __author__ = 'dmst'
 
 import sys
